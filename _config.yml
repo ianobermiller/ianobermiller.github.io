@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ianobermiller.github.io
+title: Ian Obermiller
+email: ian@obermillers.com
+author: Ian Obermiller
+description: Part time hacker, full time dad.
+paginate: 3
+google_analytics: 
